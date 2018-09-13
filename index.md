@@ -1,4 +1,26 @@
-## Welcome to the **Da**tabase of Insightful **V**oting **I**nstances and Para**d**oxes (DAVID)
+# Welcome to the **Da**tabase of Insightful **V**oting **I**nstances and Para**d**oxes (DAVID)
+
+## Entries concerning Social Choice Functions
+- [Curious preference profile which yields completely different results for Plurality, Borda, Condorcet, Instant-Runoff, and Plurality with runoff](https://bit.voting.ml/CuriousProfile)
+
+- [Example where the two main variants of Nanson's rule with / without deleting alternatives with average Borda scores differs](https://pro.voting.ml/?profile=1CBA-2ACB-2BAC)
+
+
+## Entries concerning Preference Profiles and Majority Matrices 
+- Smallest known example where doubling the entries in the majority matrix does not double the number of minimal voters required to induce the majority matrix: [Original (7 voters)](https://pro.voting.ml/?profile=1ABCEDF-1FADEBC-1DFAEBC-1ECDFAB-1EDFCAB-1EDFBCA-1FECDBA) and [doubled instance (12 voters)](https://pro.voting.ml/?profile=1ABCDEF-2DFAEBC-1FAEDBC-1FAECDB-1FECDAB-2ECDFAB-1EDFCAB-3EDFBCA)
+
+- [Smallest unweighted tournament which is not inducible by 3 voters](https://pro.voting.ml/?profile=1ABDEFCGH-1ABCDEFGH-1DHGAFCBE-1EFHBGCDA-1GCHFEDBA)
+
+## Entries concerning Maximal Lotteries
+- [C1-ML violating SD-efficiency](https://bit.voting.ml/C1MLefficiency)
+
+- [Example with 10 alternatives and Maximal Lottery polytope with 32 vertices](https://bit.voting.ml/expoML)
+
+- [Smallest known instance where Baldwin/Nanson winner is not in the essential set](http://pro.voting.ml/?profile=1CADBE-2CABED-2EDCAB-1ABECD-1DEBCA-2ABCDE-2EDBCA)
+
+- [Example where the supports of C1-ML and C2-ML are disjoint](https://bit.voting.ml/disjointML)
+
+- Disjoint supports for homogenous ML schemes with larger exponents: [Exponents 1 and 2](https://bit.voting.ml/disjointML2) and [Exponent 2 and 3](https://bit.voting.ml/disjointML3)
 
 <!---
 ## Welcome to GitHub Pages
