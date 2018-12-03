@@ -5,6 +5,8 @@
 
 - [Example where the two main variants of Nanson's rule with / without deleting alternatives with average Borda scores differs](https://pro.voting.ml/?profile=1CBA-2ACB-2BAC)
 
+- [Smallest example with three alternatives with different Condorcet winner and Ultimate Scoring winner](https://pro.voting.ml/?profile=2ACB-3BAC-4CBA-2BCA)
+
 
 ## Entries concerning Preference Profiles and Majority Matrices 
 - Smallest known example where doubling the entries in the majority matrix does not double the number of minimal voters required to induce the majority matrix: [Original (7 voters)](https://pro.voting.ml/?profile=1ABCEDF-1FADEBC-1DFAEBC-1ECDFAB-1EDFCAB-1EDFBCA-1FECDBA) and [doubled instance (12 voters)](https://pro.voting.ml/?profile=1ABCDEF-2DFAEBC-1FAEDBC-1FAECDB-1FECDAB-2ECDFAB-1EDFCAB-3EDFBCA)
